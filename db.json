@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "firstName": "Muhammad",
+      "lastName": "Faisal",
+      "gender": "M",
+      "department": "Mathematics ",
+      "level": "level 2",
+      "id": 1
+    },
+    {
+      "firstName": "Naana",
+      "lastName": "Asmau",
+      "gender": "F",
+      "department": "Mathematics ",
+      "level": "level 2",
+      "id": 2
+    },
+    {
+      "firstName": "Musa",
+      "lastName": "Musa",
+      "gender": "M",
+      "department": "Biology",
+      "level": "level 3",
+      "id": 3
+    },
+    {
+      "firstName": "Abba",
+      "lastName": "Aisami",
+      "gender": "F",
+      "department": "Biology",
+      "level": "level 4",
+      "id": 4
+    },
+    {
+      "firstName": "Root",
+      "lastName": "Ambat",
+      "gender": "M",
+      "department": "Physics",
+      "level": "level 3",
+      "id": 5
+    }
+  ]
+}
